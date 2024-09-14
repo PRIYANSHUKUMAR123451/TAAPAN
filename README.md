@@ -1,3 +1,11 @@
+#Demo Images Files
+![ESP32-DHT](https://github.com/user-attachments/assets/5538c107-7297-43cd-b903-7be0e7a4a9ba)
+![WhatsApp Image 2024-09-14 at 9 50 34 PM](https://github.com/user-attachments/assets/e44a1b93-135a-4e20-9581-7bac67ac9b14)
+
+
+
+
+
 # Arduino core for the ESP32, ESP32-S2, ESP32-S3, ESP32-C3, ESP32-C6 and ESP32-H2
 
 [![Build Status](https://github.com/espressif/arduino-esp32/actions/workflows/push.yml/badge.svg?branch=master&event=push)](https://github.com/espressif/arduino-esp32/actions/workflows/push.yml) [![External Libraries Test](https://github.com/espressif/arduino-esp32/actions/workflows/lib.yml/badge.svg?branch=master&event=schedule)](https://github.com/espressif/arduino-esp32/blob/gh-pages/LIBRARIES_TEST.md) [![Hardware Tests](https://github.com/espressif/arduino-esp32/blob/gh-pages/runtime-tests-results/badge.svg)](https://github.com/espressif/arduino-esp32/actions/workflows/tests_results.yml)
