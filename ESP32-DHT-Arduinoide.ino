@@ -9,7 +9,7 @@ const char *password = "chaker123456";
 
 WebServer server(80);
 DHT dht(26, DHT11);
-
+//priyanshukumarggv
 void handleRoot() {
   char msg[1500];
 
